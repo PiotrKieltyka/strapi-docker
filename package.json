@@ -18,16 +18,16 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.11.4",
-    "@strapi/plugin-users-permissions": "4.11.4",
-    "@strapi/plugin-i18n": "4.11.4",
-    "better-sqlite3": "8.0.1"
+    "@strapi/strapi": "4.12.1",
+    "@strapi/plugin-users-permissions": "4.12.1",
+    "@strapi/plugin-i18n": "4.12.1",
+    "better-sqlite3": "8.5.0"
   },
   "strapi": {
     "uuid": "9f2983b7-eef3-4d6a-8d2b-63ba5612f38f"
   },
   "engines": {
-    "node": ">=14.19.1 <=18.x.x",
+    "node": ">=16.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
